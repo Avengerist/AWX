@@ -44,7 +44,7 @@ Enter in Browser **ip_of_AWX** and login with creds:<br>
 user: *admin*<br>
 password: *password*<br>
 
-<h2>Create Credentials</h2><br>
+<h2>Configuration for JOB</h2><br>
 
 <h3>Credentials</h3><br>
 
